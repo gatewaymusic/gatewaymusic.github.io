@@ -4,14 +4,26 @@ title: Everlasting Father
 # Everlasting Father  
   
 Verse 1:  
-贖いの主の約束されたいのちをうけて生きる  
-Aganai no shu no, yakusoku sareta, inochi o ukete, ikiru  
+贖いの主の  
+Aganai no shu no  
+約束された  
+yakusoku sareta  
+いのちをうけて  
+inochi o ukete  
+生きる  
+ikiru  
   
 Verse 2:  
-慰めの主に救われたいま恐れることはないよ  
-Nagusame no shu ni, sukuwareta i—ma, osoreru koto wa, nai yo  
+慰めの主に  
+Nagusame no shu ni  
+救われたいま  
+sukuwareta i—ma  
+恐れることは  
+osoreru koto wa  
+ないよ  
+nai yo    
   
-Chorus:  
+Chorus:    
 父なる神  
 Chichi naru kami  
 変わらぬ愛  
@@ -25,8 +37,14 @@ Ataeru
   
 Verse 3:  
   
-憐れみの主の呼び戻す声心に今も 響く  
-Awaremi no shu no, yobimodosu koe, kokoro ni ima mo, hibiku  
+憐れみの主の  
+Awaremi no shu no  
+呼び戻す声  
+yobimodosu koe  
+心に今も  
+kokoro ni ima mo  
+響く  
+hibiku    
   
 Verse 1:  
 Turn my heart to You, O God  

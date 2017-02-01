@@ -2,23 +2,35 @@
 title: Mighty to Save
 ---
 
-恵みとあわれみ Megumi to A-ware-mi  
-変わらぬ愛        Ka-wara-nu Ai  
-あたえるため   Atae-rutame  
+恵みとあわれみ  
+Megumi to A-ware-mi  
+変わらぬ愛  
+Ka-wara-nu Ai  
+あたえるため  
+Atae-rutame  
 
-十字架の血潮で Jyujika no chi-shio-de  
-私の罪         Watashi no Tsumi  
-赦された      Yurusareta  
+十字架の血潮で  
+Jyujika no chi-shio-de  
+私の罪  
+Watashi no Tsumi  
+赦された  
+Yurusareta  
 
-イエス、救いの神 Iesu sukui no kami  
-山を動かす   Yama wo Ugokasu  
-そのちからで sono chikara-de  
+イエス、救いの神  
+Iesu sukui no kami  
+山を動かす  
+Yama wo Ugokasu  
+そのちからで  
+sono chikara-de  
 
-闇の力砕き Yami no chikara kudaki  
-よみがえられた Yomigaerareta  
-主にハレルヤ Shu ni hallelujah  
-
-Everyone needs compassion  
+闇の力砕き  
+Yami no chikara kudaki  
+よみがえられた  
+Yomigaerareta  
+主にハレルヤ  
+Shu ni hallelujah  
+  
+Everyone needs compassion
 Love that's never failing   
 Let mercy fall on me  
 

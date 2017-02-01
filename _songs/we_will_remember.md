@@ -5,7 +5,7 @@ title: We Will Remember
 
 By Tommy Walker  
 (Japanese by Fumi Chito)  
-~~~
+
 (Chorus)  
 立ち止まり, 振り返り  
 Tachidomari, Furikaeri  
@@ -74,4 +74,3 @@ Hallelujah, hallelujah
 To the one from whom all blessings flow  
 Hallelujah, hallelujah  
 To the one whose glory has been shown  
-~~~

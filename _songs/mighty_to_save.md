@@ -56,4 +56,4 @@ Now I surrender
 
 Shine your light and let the whole world see  
 We're singing for the glory of the risen King...Jesus (x2)  
-~~~
+~~~   

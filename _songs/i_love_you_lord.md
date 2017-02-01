@@ -4,7 +4,6 @@ title: I Love You Lord
 
 # I Love You Lord
 
-~~~
 あいーするー、わーがーしゅーうよ～  
 みいまーえーにー、ささげーますー  
 かあんーしゃとー、わがさーんびは～  
@@ -22,4 +21,3 @@ Take joy, My King
 in what You hear  
 May it be a sweet, sweet sound  
 in Your ear  
-~~~

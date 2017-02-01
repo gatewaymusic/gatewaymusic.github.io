@@ -2,7 +2,7 @@
 title: Everlasting Father
 ---
 # Everlasting Father  
-~~~
+
 Verse 1:  
 贖いの主の  
 Aganai no shu no  
@@ -74,4 +74,3 @@ Draws me close
 Bridge:  
 I am loved, I am loved  
 By my Father, I'm forever Yours  
-~~~

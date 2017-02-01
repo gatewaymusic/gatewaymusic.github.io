@@ -2,7 +2,7 @@
 title: All in All
 ---
 # All in All  
-~~~
+
 乾いたこころに  
 Kawaita kokoro ni  
 命を与える  
@@ -25,4 +25,3 @@ Hometatae
 Sanbi sasage  
 ほめ歌う  
 Home utau  
-~~~

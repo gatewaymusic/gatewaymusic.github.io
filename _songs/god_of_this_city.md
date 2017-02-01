@@ -3,7 +3,7 @@ title: God of this City
 ---
 # God of this city  
 Japanese words by Fumi Chito (09 Nov 19)  
-~~~
+
 (Verse 1)   
 主イエス、我が神    
 Shu-Iesu, Waga Kami  
@@ -45,4 +45,3 @@ Shu no tami yo ima
 Inori, machinozome  
 主イエスを  
 Shu-Iesu wo  
-~~~

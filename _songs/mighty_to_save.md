@@ -1,7 +1,7 @@
 ---
 title: Mighty to Save
 ---
-~~~
+
 恵みとあわれみ  
 Megumi to A-ware-mi  
 変わらぬ愛  
@@ -55,5 +55,4 @@ Everything I believe in
 Now I surrender  
 
 Shine your light and let the whole world see  
-We're singing for the glory of the risen King...Jesus (x2)  
-~~~   
+We're singing for the glory of the risen King...Jesus (x2)   

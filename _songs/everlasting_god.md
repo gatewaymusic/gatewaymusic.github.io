@@ -4,6 +4,7 @@ title: Everlasting God
 # Everlasting God
 Japanese by Fumi Chito on 2010 May 11  
 
+~~~
 歌え、主イエスの愛と       
 Utae,Shu Iesu no Ai to  
 主イエスのちから         
@@ -47,3 +48,4 @@ You're the defender of the weak
 You comfort those in need  
 You lift us up  
 On wings like eagles  
+~~~

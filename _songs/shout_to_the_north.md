@@ -2,7 +2,7 @@
 title: Shout to the North
 ---
 # Shout to the North
-
+~~~
 主の民よ、立て  
 恵みを受けて  
 主イエスの御名を  
@@ -17,3 +17,4 @@ Shout、声合わせて
 Sing, 地の果てまで  
 イエス，その御名の  
 麗しさを  
+~~~

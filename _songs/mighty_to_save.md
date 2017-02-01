@@ -1,7 +1,7 @@
 ---
 title: Mighty to Save
 ---
-
+~~~
 恵みとあわれみ  
 Megumi to A-ware-mi  
 変わらぬ愛  
@@ -29,7 +29,7 @@ Yami no chikara kudaki
 Yomigaerareta  
 主にハレルヤ  
 Shu ni hallelujah  
-  
+
 Everyone needs compassion
 Love that's never failing   
 Let mercy fall on me  
@@ -56,3 +56,4 @@ Now I surrender
 
 Shine your light and let the whole world see  
 We're singing for the glory of the risen King...Jesus (x2)  
+~~~

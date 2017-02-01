@@ -1,8 +1,9 @@
 ---
-title: psalm 27
+title: Psalm 27
 ---
 # Psalm 27  
 
+~~~
 ただ一つ　私の願い求めは  
 主の宮に　住まうこと　いのちの限り  
 
@@ -19,3 +20,4 @@ To behold the beauty, the beauty of the Lord
 To inquire in His temple, the temple of the Lord  
 To behold the beauty, the beauty of the Lord  
 To inquire in His temple, the temple of the Lord  
+~~~

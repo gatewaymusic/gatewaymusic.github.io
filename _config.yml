@@ -6,7 +6,7 @@
 name:               "Kiko"
 
 # URL
-baseurl:            "/Kiko"
+baseurl:            "/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -16,13 +16,15 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "//gfjaru.github.io/Kiko/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           ""
 
 # Sass
 sass:
   style:            :compressed
+
+# Collections
+collections:
+- songs
 
 # Scopes
 defaults:
@@ -38,3 +40,9 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "songs"
+    values:
+      layout:       "song"

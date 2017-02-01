@@ -6,7 +6,7 @@
 name:               "Kiko"
 
 # URL
-baseurl:            "/"
+baseurl:            "/gatewaymusic.github.io/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Japanese Worship Music</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link rel="stylesheet" href="/style.css">
+  </head>
+<body>
+  <div class="container">
+    <header class="masthead">
+  <h1 class="masthead-title--small">
+    <a href="/">Japanese Worship Music</a>
+  </h1>
+  <style>
+    #map {
+          height: 400px;
+          width: 100%;
+        }
+    </style>
+</header>
+<div class="content page">
+  <h1 class="page-title"></h1>
+    <body>
+    <div id="map"></div>
+    <script>
+
+      function initMap() {
+        var myLatLng = {lat: 34.69374, lng: 135.50218};
+
+        // Create a map object and specify the DOM element for display.
+        var map = new google.maps.Map(document.getElementById('map'), {
+          center: myLatLng,
+          scrollwheel: false,
+          zoom: 9
+        });
+
+        var markers = [
+            ['Mustard Seed Osaka', 34.6896687,135.49213239999995],
+            ['Gateway', 34.7422781,135.7576517],
+            ['Crossroad', 34.7479206,135.35597970000003],
+            ['Mustard Seed Kobe', 34.6988043,135.1989079],
+            ['Kakogawa Baptist Church', 34.7722294,134.85965569999996],
+            ['Kobe Bible Fellowship', 34.6943241,135.18889779999995]
+          ]
+        ;
+
+        var infoWindowContent = [
+            ['<div class="info_content">' +
+            '<h3>Mustard Seed Osaka</h3>' +
+            '<p>Info about Mustard Seed</p>' +        '</div>'],
+            ['<div class="info_content">' +
+            '<h3>Gateway</h3>' +
+            '<p>Info about Gateway Church</p>' +
+            '</div>'],
+            ['<div class="info_content">' +
+            '<h3>Crossroad</h3>' +
+            '<p>Info about Crossroad Church</p>' +
+            '</div>'],
+            ['<div class="info_content">' +
+            '<h3>Mustard Seed Kobe</h3>' +
+            '<p>Info about Mustard Seed Kobe</p>' +
+            '</div>'],
+            ['<div class="info_content">' +
+            '<h3>Kakogawa Baptist Church</h3>' +
+            '<p>Info about Kakogawa Baptist Church</p>' +
+            '</div>'],
+            ['<div class="info_content">' +
+            '<h3>Kobe Bible Fellowship</h3>' +
+            '<p>Info about Kobe Bible Fellowship</p>' +
+            '</div>']
+        ];
+
+        var infoWindow = new google.maps.InfoWindow(), marker, i;
+
+        // Loop through our array of markers & place each one on the map
+        for( i = 0; i < markers.length; i++ ) {
+            var position = new google.maps.LatLng(markers[i][1], markers[i][2]);
+            marker = new google.maps.Marker({
+                position: position,
+                map: map,
+                title: markers[i][0]
+            });
+
+            // Allow each marker to have an info window
+            google.maps.event.addListener(marker, 'click', (function(marker, i) {
+                return function() {
+                    infoWindow.setContent(infoWindowContent[i][0]);
+                    infoWindow.open(map, marker);
+                }
+            })(marker, i));
+        }
+      }
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBlsImNM_ee6wD8w1PZO-iPjYx8TgtcVcI&callback=initMap"
+        async defer></script>
+  </body>
+</html>
+
+</div>
+
+  </div>
+</body>
+</html>

@@ -11,6 +11,9 @@ markdown:           kramdown
 
 # Navigation
 nav:
+  - name:           "Churches"
+    href:           "/map.html"
+
 
 # Sass
 sass:

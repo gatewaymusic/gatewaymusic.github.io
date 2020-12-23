@@ -9,6 +9,9 @@ permalink:          /:year/:month/:day/:title.html
 # Markdown
 markdown:           kramdown
 
+kramdown:
+  hard_wrap: true
+
 # Navigation
 nav:
   - name:           "Churches"
